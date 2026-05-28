@@ -1,7 +1,8 @@
 ---
 title: "Hackathon Reflection"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["hackathon", "teamwork", "reflection"]
 ---
 
@@ -30,4 +31,3 @@ Describe what working under time pressure taught you about collaboration, scope,
 ## Proof of participation
 
 Add a photo, registration confirmation, badge, certificate, or other proof.
-

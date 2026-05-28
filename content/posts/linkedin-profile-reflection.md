@@ -1,7 +1,8 @@
 ---
 title: "LinkedIn Profile Reflection"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["linkedin", "networking", "career"]
 ---
 
@@ -28,4 +29,3 @@ Explain what you learned about presenting yourself professionally online. Mentio
 
 - LinkedIn URL:
 - PDF export of profile:
-

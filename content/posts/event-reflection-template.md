@@ -1,11 +1,12 @@
 ---
 title: "Event Reflection Template"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["event", "reflection", "template"]
 ---
 
-Use this structure for each required physical event reflection. Duplicate this post, rename it, and replace the placeholder text.
+Use this structure for each required physical event reflection. Duplicate this post, rename it, set `draft` to `false`, and replace the placeholder text.
 
 ## Event context
 
@@ -34,4 +35,3 @@ Would I attend again? Would I recommend it to other students? How does it influe
 ## Proof of attendance
 
 Add a photo, badge, ticket, or other proof here.
-

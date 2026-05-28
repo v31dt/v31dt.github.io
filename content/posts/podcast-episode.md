@@ -1,7 +1,8 @@
 ---
 title: "Podcast Episode"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["podcast", "communication", "professional-networking"]
 ---
 
@@ -26,4 +27,3 @@ Describe what preparing, recording, and editing the podcast taught you about com
 ## Episode link
 
 Add the published podcast link here when it becomes available.
-

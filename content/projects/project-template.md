@@ -1,7 +1,8 @@
 ---
 title: "Project Template"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["project"]
 ---
 
@@ -24,4 +25,3 @@ Show screenshots, links, repository URLs, demos, or measurable outcomes.
 ## Reflection
 
 What did you learn technically and professionally?
-

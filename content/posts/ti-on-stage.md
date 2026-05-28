@@ -1,7 +1,8 @@
 ---
 title: "TI on STAGE"
 date: 2026-05-28
-draft: false
+draft: true
+hidden: true
 tags: ["ti-on-stage", "internship", "presentation"]
 ---
 
@@ -30,4 +31,3 @@ After the event, summarize the questions visitors asked and the feedback receive
 ## Reflection
 
 Explain what the experience taught you about presenting technical work to an external audience.
-

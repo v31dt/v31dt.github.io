@@ -3,6 +3,7 @@ locale = "en-gb"
 title = "V31dt | IT Portfolio"
 theme = "archie"
 copyright = "© V31dt"
+cacheDir = "/tmp/hugo_cache/profnet"
 
 pygmentsStyle = "monokai"
 pygmentsCodeFences = true

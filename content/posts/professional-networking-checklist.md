@@ -23,9 +23,9 @@ This page tracks the required portfolio items for the Professional Networking mo
 
 | Requirement | Status | Notes |
 | --- | --- | --- |
-| Portfolio website | In progress | Hugo site hosted through GitHub Pages |
+| Portfolio website | Done | Hugo site hosted through GitHub Pages |
 | About page | In progress | Replace placeholder text with personal details |
-| Website creation post | Done as draft content | Update after deployment |
+| Website creation post | Done | Explains Hugo, Archie, GitHub, and the publishing workflow |
 | Event 1 | To complete | Add event details and proof |
 | Event 2 | To complete | Add event details and proof |
 | Event 3 | To complete | Add event details and proof |
@@ -34,4 +34,3 @@ This page tracks the required portfolio items for the Professional Networking mo
 | Podcast | To complete | Add title, guest, topic, and link |
 | LinkedIn | To complete | Add profile URL and reflection |
 | TI on STAGE | To complete | Add pitch material and reflection |
-
