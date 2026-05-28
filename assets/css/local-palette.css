@@ -1,0 +1,178 @@
+:root {
+  /* Local Waybar/foot/Hyprland/zsh palette:
+     bar/terminal bg #f8f8f8, foreground #2a2420, gold #c49a1a,
+     muted text #9a8e80, purple accent #875faf. */
+  --local-paper: #f8f8f8;
+  --local-paper-soft: #f2eee6;
+  --local-ink: #2a2420;
+  --local-muted: #9a8e80;
+  --local-purple: #280e5c;
+  --local-purple-soft: #5f5f87;
+  --local-purple-core: #875faf;
+  --local-violet: #af87ff;
+  --local-mauve: #af87af;
+  --local-gold: #c49a1a;
+  --local-gold-bright: #ffd700;
+  --local-gold-soft: #ffd787;
+  --local-parchment: #d7af87;
+  --local-border-muted: #c8bfa8;
+  --local-text: var(--local-ink);
+  --local-text-muted: var(--local-muted);
+  --local-bg-code: rgba(196, 154, 26, 0.08);
+  --local-bg-pre: var(--local-paper-soft);
+
+  --color-primary: var(--local-gold);
+  --color-primary-hover: var(--local-gold-bright);
+  --color-border: var(--local-gold);
+  --color-callout: var(--local-purple-core);
+  --color-text: var(--local-text);
+  --color-text-muted: var(--local-text-muted);
+  --color-text-meta: var(--local-parchment);
+  --color-background: var(--local-paper);
+  --color-background-code: var(--local-bg-code);
+  --color-background-pre: var(--local-bg-pre);
+  --color-background-toc: var(--local-bg-pre);
+  --color-background-draft: var(--local-purple-soft);
+
+  --color-primary-dark: var(--local-gold);
+  --color-primary-hover-dark: var(--local-gold-bright);
+  --color-border-dark: var(--local-gold);
+  --color-text-dark: var(--local-text);
+  --color-text-muted-dark: var(--local-text-muted);
+  --color-background-dark: var(--local-paper);
+  --color-background-code-dark: var(--local-bg-code);
+  --color-background-pre-dark: var(--local-bg-pre);
+  --color-background-toc-dark: var(--local-bg-pre);
+  --color-background-draft-dark: var(--local-purple-soft);
+}
+
+html {
+  color: var(--local-text);
+  background: var(--local-paper);
+}
+
+body {
+  color: var(--local-text);
+  background: var(--local-paper);
+}
+
+.content {
+  max-inline-size: 860px;
+}
+
+header {
+  border-block-end: 0;
+  padding-block-end: 0;
+}
+
+header .main a {
+  color: var(--local-purple-core);
+  border-block-end-color: var(--local-gold);
+}
+
+nav a {
+  color: var(--local-purple-core);
+  border-block-end-color: var(--local-gold);
+}
+
+nav a:hover,
+nav a:focus,
+a:hover,
+a:focus,
+.tags a:hover,
+.tags a:focus,
+.site-description a:hover,
+.site-description a:focus,
+.soc:hover,
+.soc:focus {
+  background-color: var(--local-purple-core);
+  color: var(--local-paper);
+  outline-color: var(--local-purple-core);
+}
+
+a {
+  border-block-end-color: var(--local-gold);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--local-purple-core);
+}
+
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before,
+ul > li::before {
+  color: var(--local-purple-core);
+}
+
+p,
+li,
+table td {
+  color: var(--local-text);
+}
+
+time,
+.meta,
+.site-description p {
+  color: var(--local-muted);
+}
+
+blockquote {
+  color: var(--local-text-muted);
+  border-color: var(--local-gold);
+}
+
+code {
+  background-color: var(--local-bg-code);
+  color: var(--local-purple-core);
+}
+
+pre,
+.highlight {
+  background-color: var(--local-bg-pre);
+  border-color: var(--local-gold);
+}
+
+table {
+  box-shadow: 0 0 0 1px rgba(196, 154, 26, 0.2);
+}
+
+table th {
+  color: var(--local-ink);
+  background-color: rgba(196, 154, 26, 0.12);
+  border-color: var(--local-gold);
+}
+
+table td {
+  border-color: rgba(196, 154, 26, 0.5);
+}
+
+table tr:nth-child(even) {
+  background-color: rgba(135, 95, 175, 0.08);
+}
+
+footer {
+  border-block-start-color: var(--local-gold);
+  color: var(--local-muted);
+}
+
+.border {
+  border-color: var(--local-gold);
+}
+
+.soc {
+  color: var(--local-gold);
+}
+
+::selection {
+  background: var(--local-gold);
+  color: var(--local-ink);
+}

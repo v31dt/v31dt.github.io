@@ -13,6 +13,7 @@ pygmentsCodeFencesGuessSyntax = true
 mode = "auto"
 useCDN = false
 subtitle = "Applied Computer Science student building a professional network through projects, events, and lifelong learning."
+customCSS = ["css/local-palette.css"]
 
 [[params.social]]
 name = "GitHub"
