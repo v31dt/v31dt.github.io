@@ -1,0 +1,49 @@
+baseURL = "https://v31dt.github.io/"
+locale = "en-gb"
+title = "V31dt | IT Portfolio"
+theme = "archie"
+copyright = "© V31dt"
+
+pygmentsStyle = "monokai"
+pygmentsCodeFences = true
+pygmentsCodeFencesGuessSyntax = true
+
+[params]
+mode = "auto"
+useCDN = false
+subtitle = "Applied Computer Science student building a professional network through projects, events, and lifelong learning."
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/v31dt"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "#"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 2
+
+[[menu.main]]
+name = "Portfolio"
+url = "/posts/"
+weight = 3
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
+weight = 4
+
+[[menu.main]]
+name = "Tags"
+url = "/tags/"
+weight = 5
