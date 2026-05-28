@@ -70,6 +70,11 @@ header .main a {
   border-block-end-color: var(--local-gold);
 }
 
+header .main a:hover,
+header .main a:focus {
+  color: var(--local-paper);
+}
+
 nav a {
   color: var(--local-purple-core);
   border-block-end-color: var(--local-gold);
@@ -160,8 +165,13 @@ table tr:nth-child(even) {
 }
 
 footer {
-  border-block-start-color: var(--local-gold);
+  border-block-start-color: var(--local-purple-core);
   color: var(--local-muted);
+}
+
+hr {
+  border-block-start-color: var(--local-purple-core);
+  border-top-color: var(--local-purple-core);
 }
 
 .border {

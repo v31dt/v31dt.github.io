@@ -1,8 +1,8 @@
 baseURL = "https://v31dt.github.io/"
 locale = "en-gb"
-title = "V31dt | IT Portfolio"
+title = "Robert Akhmerov | v31dt"
 theme = "archie"
-copyright = "© V31dt"
+copyright = "© Robert Akhmerov"
 cacheDir = "/tmp/hugo_cache/profnet"
 
 pygmentsStyle = "monokai"
@@ -12,8 +12,9 @@ pygmentsCodeFencesGuessSyntax = true
 [params]
 mode = "auto"
 useCDN = false
-subtitle = "Applied Computer Science student building a professional network through projects, events, and lifelong learning."
+subtitle = "Cybersecurity student and Certified Ethical Hacker focused on web and mobile penetration testing, malware analysis, and security automation."
 customCSS = ["css/local-palette.css"]
+mainSections = ["posts"]
 
 [[params.social]]
 name = "GitHub"
@@ -23,7 +24,7 @@ url = "https://github.com/v31dt"
 [[params.social]]
 name = "LinkedIn"
 icon = "linkedin"
-url = "#"
+url = "https://www.linkedin.com/in/robert-akhmerov-7166a72a2/"
 
 [[menu.main]]
 name = "Home"
@@ -36,7 +37,7 @@ url = "/about/"
 weight = 2
 
 [[menu.main]]
-name = "Portfolio"
+name = "All posts"
 url = "/posts/"
 weight = 3
 

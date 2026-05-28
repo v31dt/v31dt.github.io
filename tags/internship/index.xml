@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Internship on Robert Akhmerov | v31dt</title><link>https://v31dt.github.io/tags/internship/</link><description>Recent content in Internship on Robert Akhmerov | v31dt</description><generator>Hugo</generator><language>en-gb</language><copyright>© Robert Akhmerov</copyright><lastBuildDate>Thu, 28 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://v31dt.github.io/tags/internship/index.xml" rel="self" type="application/rss+xml"/><item><title>KBC Offensive Security Internship</title><link>https://v31dt.github.io/projects/kbc-offensive-security-internship/</link><pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate><guid>https://v31dt.github.io/projects/kbc-offensive-security-internship/</guid><description>&lt;h2 id="context"&gt;Context&lt;/h2&gt;
+&lt;p&gt;From February 2026 to May 2026, I completed an offensive security internship at KBC. The work focused on mobile penetration testing, Android banking malware research, and automation for security testing environments.&lt;/p&gt;
+&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Burp Suite&lt;/li&gt;
+&lt;li&gt;Frida&lt;/li&gt;
+&lt;li&gt;OWASP MASVS&lt;/li&gt;
+&lt;li&gt;Android security testing&lt;/li&gt;
+&lt;li&gt;Malware analysis tooling&lt;/li&gt;
+&lt;li&gt;Automation scripting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="my-contribution"&gt;My Contribution&lt;/h2&gt;
+&lt;p&gt;I developed automation for mobile penetration testing environments, integrated Burp Suite with Frida for login flow automation, contributed to a KBC mobile security assessment based on OWASP MASVS, and researched Android banking malware.&lt;/p&gt;</description></item></channel></rss>

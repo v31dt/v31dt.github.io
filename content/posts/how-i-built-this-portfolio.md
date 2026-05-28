@@ -2,6 +2,7 @@
 title: "How I Built This Portfolio"
 date: 2026-05-28
 draft: false
+description: "A short overview of how this portfolio is built with Hugo, Archie, GitHub, and GitHub Pages."
 tags: ["hugo", "github-pages", "portfolio"]
 ---
 

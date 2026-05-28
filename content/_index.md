@@ -1,10 +1,10 @@
 ---
-title: "Professional Networking Portfolio"
+title: "Robert Akhmerov | v31dt"
 ---
 
-Welcome to my professional networking portfolio. This website collects the work, reflections, and proof of participation for the Professional Networking module.
+I am a cybersecurity student at Howest and a Certified Ethical Hacker with hands-on experience in web and mobile penetration testing, Android malware analysis, and security automation.
 
-The portfolio is structured around the required parts of the assignment: event reflections, hackathon participation, a podcast episode, LinkedIn profile development, TI on STAGE, and selected IT projects.
+This portfolio documents my professional networking work, technical projects, internship experience, and learning path as I work toward a junior penetration tester or security engineering role.
 
 ## Featured sections
 
@@ -12,5 +12,4 @@ The portfolio is structured around the required parts of the assignment: event r
 - [Portfolio posts](/posts/)
 - [Projects](/projects/)
 - [How I built this portfolio](/posts/how-i-built-this-portfolio/)
-- [Professional Networking checklist](/posts/professional-networking-checklist/)
-
+- [Resume PDF](/files/robert-akhmerov-resume.pdf)

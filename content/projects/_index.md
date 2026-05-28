@@ -4,5 +4,4 @@ date: 2026-05-28
 draft: false
 ---
 
-This section contains selected technical projects. Each project should explain the problem, the technologies used, your personal contribution, and what you learned.
-
+This section contains selected security projects, achievements, and technical work. Each project explains the context, technologies, my contribution, and what it shows about my development as a cybersecurity professional.

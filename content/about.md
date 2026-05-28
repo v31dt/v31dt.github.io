@@ -4,21 +4,42 @@ date: 2026-05-28
 draft: false
 ---
 
-I am an Applied Computer Science student using this portfolio to document my growth as a future IT professional.
+I am Robert Akhmerov, also known online as v31dt. I study Applied Computer Science at Howest, majoring in Cybersecurity, and I am currently building toward a junior penetration tester or security engineering role.
 
-This site focuses on the professional networking activities, projects, technical interests, and reflections that show how I approach lifelong learning. It is also meant to be useful beyond the course: a compact overview of who I am, what I am learning, and where I want to grow.
+My work focuses on practical security: web and mobile penetration testing, Burp Suite workflows, Android security assessment, malware analysis, reverse engineering, and automation. During my offensive security internship at KBC, I worked on mobile penetration testing automation, Burp Suite and Frida integration, OWASP MASVS-based assessment, and Android banking malware research.
 
-## Focus areas
+I also discovered and responsibly disclosed CVE-2026-25471, a critical authentication bypass vulnerability in a WordPress plugin, and ranked as a Cyber Security Challenge Belgium 2026 ECSC Track finalist.
 
-- Software development
-- Cybersecurity and ethical hacking
-- Artificial intelligence and automation
-- Professional communication and networking
-- Practical projects with real users or realistic constraints
+## Focus Areas
+
+- Web and API penetration testing
+- Mobile application security and OWASP MASVS
+- Burp Suite, Frida, Ghidra, and security tooling
+- Malware analysis and reverse engineering
+- Security automation with Python, Java, and JavaScript
+- AI-assisted security workflows with human oversight
+
+## Education
+
+Howest, Applied Computer Science, major Cybersecurity  
+Expected graduation: September 2026  
+GPA: 16.69/20
+
+Relevant coursework includes Practical Reverse Engineering and Malware Analysis, Web Pentesting Advanced, Cryptography, Security Management and Threat Assessment, and Network and System Pentesting.
+
+## Certification
+
+- Certified Ethical Hacker (CEH), February 2026
+
+## Languages
+
+- English: fluent
+- Russian: fluent
+- Dutch: basic
+- Mandarin: basic
 
 ## Links
 
 - GitHub: [github.com/v31dt](https://github.com/v31dt)
-- LinkedIn: add your LinkedIn URL here
-- CV: add a link to your CV PDF here
-
+- LinkedIn: [linkedin.com/in/robert-akhmerov-7166a72a2](https://www.linkedin.com/in/robert-akhmerov-7166a72a2/)
+- CV: [Robert Akhmerov Resume PDF](/files/robert-akhmerov-resume.pdf)

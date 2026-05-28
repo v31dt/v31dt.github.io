@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elk on Robert Akhmerov | v31dt</title><link>https://v31dt.github.io/tags/elk/</link><description>Recent content in Elk on Robert Akhmerov | v31dt</description><generator>Hugo</generator><language>en-gb</language><copyright>© Robert Akhmerov</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://v31dt.github.io/tags/elk/index.xml" rel="self" type="application/rss+xml"/><item><title>ELK + Burp Suite Monitoring System</title><link>https://v31dt.github.io/projects/elk-burp-monitoring/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://v31dt.github.io/projects/elk-burp-monitoring/</guid><description>&lt;h2 id="context"&gt;Context&lt;/h2&gt;
+&lt;p&gt;This project built a Burp Suite and ELK Stack setup for centralized storage, analysis, and anomaly detection of HTTP requests.&lt;/p&gt;
+&lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Burp Suite&lt;/li&gt;
+&lt;li&gt;Elasticsearch&lt;/li&gt;
+&lt;li&gt;Logstash / Beats&lt;/li&gt;
+&lt;li&gt;Kibana&lt;/li&gt;
+&lt;li&gt;Filebeat&lt;/li&gt;
+&lt;li&gt;HTTP request analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="result"&gt;Result&lt;/h2&gt;
+&lt;p&gt;The setup supports security research and vulnerability tracking by collecting and analyzing HTTP traffic in a centralized monitoring stack.&lt;/p&gt;
+&lt;h2 id="reflection"&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;This project connected penetration testing workflows with monitoring and analysis. It pushed me to think beyond individual findings and look at how request data can be stored, searched, and used during longer security investigations.&lt;/p&gt;</description></item></channel></rss>
