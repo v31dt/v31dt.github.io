@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hackathon on Robert Akhmerov | v31dt</title><link>https://v31dt.github.io/tags/hackathon/</link><description>Recent content in Hackathon on Robert Akhmerov | v31dt</description><generator>Hugo</generator><language>en-gb</language><copyright>© Robert Akhmerov</copyright><lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://v31dt.github.io/tags/hackathon/index.xml" rel="self" type="application/rss+xml"/><item><title>Hack The Future: AquaRadar</title><link>https://v31dt.github.io/posts/hackathon-reflection/</link><pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate><guid>https://v31dt.github.io/posts/hackathon-reflection/</guid><description>&lt;p&gt;&lt;img src="https://v31dt.github.io/images/events/hack-the-future-event-photo.jpg" alt="Hack The Future event photo"&gt;&lt;/p&gt;
+&lt;p&gt;Hack The Future was a good reminder that a hackathon is not only about having a good idea. It is also about knowing what you already have, and not throwing that advantage away once the pressure starts.&lt;/p&gt;
+&lt;h2 id="hackathon"&gt;Hackathon&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: Hack The Future&lt;/li&gt;
+&lt;li&gt;Challenge: Gotta Catch &amp;lsquo;Em All&lt;/li&gt;
+&lt;li&gt;Project: AquaRadar&lt;/li&gt;
+&lt;li&gt;Focus: a Pokemon-like fish spotting game&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="reflection"&gt;Reflection&lt;/h2&gt;
+&lt;p&gt;The challenge was called &lt;strong&gt;&amp;ldquo;Gotta Catch &amp;lsquo;Em All&amp;rdquo;&lt;/strong&gt;. The idea was simple and fun: build something like a Pokemon-style game, but instead of catching fictional creatures, users would spot real fish. Our version became AquaRadar, a system where someone could upload an image, get a result, review it, and slowly build up a small memory of what had already been recognised.&lt;/p&gt;</description></item></channel></rss>
