@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Open-Source on Robert Akhmerov | v31dt</title><link>https://v31dt.github.io/tags/open-source/</link><description>Recent content in Open-Source on Robert Akhmerov | v31dt</description><generator>Hugo</generator><language>en-gb</language><copyright>© Robert Akhmerov</copyright><lastBuildDate>Mon, 01 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://v31dt.github.io/tags/open-source/index.xml" rel="self" type="application/rss+xml"/><item><title>AInalyzer</title><link>https://v31dt.github.io/projects/ainalyzer/</link><pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate><guid>https://v31dt.github.io/projects/ainalyzer/</guid><description>&lt;h2 id="context"&gt;Context&lt;/h2&gt;
 &lt;p&gt;AInalyzer is an open-source AI-powered Burp Suite extension. It integrates an AI assistant into HTTP endpoint security investigations while keeping a human in the loop.&lt;/p&gt;
+&lt;p&gt;Project repository: &lt;a href="https://github.com/jeevsewooster1/ainalyzer"&gt;github.com/jeevsewooster1/ainalyzer&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Burp Suite extension development&lt;/li&gt;

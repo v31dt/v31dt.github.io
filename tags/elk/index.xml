@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Elk on Robert Akhmerov | v31dt</title><link>https://v31dt.github.io/tags/elk/</link><description>Recent content in Elk on Robert Akhmerov | v31dt</description><generator>Hugo</generator><language>en-gb</language><copyright>© Robert Akhmerov</copyright><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://v31dt.github.io/tags/elk/index.xml" rel="self" type="application/rss+xml"/><item><title>ELK + Burp Suite Monitoring System</title><link>https://v31dt.github.io/projects/elk-burp-monitoring/</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>https://v31dt.github.io/projects/elk-burp-monitoring/</guid><description>&lt;h2 id="context"&gt;Context&lt;/h2&gt;
 &lt;p&gt;This project built a Burp Suite and ELK Stack setup for centralized storage, analysis, and anomaly detection of HTTP requests.&lt;/p&gt;
+&lt;p&gt;Project report: &lt;a href="https://github.com/v31dt/elk-burp-monitoring-system/blob/main/Anomaly%20Detection%20and%20Historical%20Analysis%20of%20Burp%20Suite%20Requests.pdf"&gt;Anomaly Detection and Historical Analysis of Burp Suite Requests&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id="technologies"&gt;Technologies&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Burp Suite&lt;/li&gt;

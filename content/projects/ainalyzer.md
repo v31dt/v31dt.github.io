@@ -10,6 +10,8 @@ tags: ["burp-suite", "ai", "security-automation", "open-source"]
 
 AInalyzer is an open-source AI-powered Burp Suite extension. It integrates an AI assistant into HTTP endpoint security investigations while keeping a human in the loop.
 
+Project repository: [github.com/jeevsewooster1/ainalyzer](https://github.com/jeevsewooster1/ainalyzer)
+
 ## Technologies
 
 - Burp Suite extension development

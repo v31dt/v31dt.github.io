@@ -10,6 +10,8 @@ tags: ["elk", "burp-suite", "monitoring", "security-research"]
 
 This project built a Burp Suite and ELK Stack setup for centralized storage, analysis, and anomaly detection of HTTP requests.
 
+Project report: [Anomaly Detection and Historical Analysis of Burp Suite Requests](https://github.com/v31dt/elk-burp-monitoring-system/blob/main/Anomaly%20Detection%20and%20Historical%20Analysis%20of%20Burp%20Suite%20Requests.pdf)
+
 ## Technologies
 
 - Burp Suite
