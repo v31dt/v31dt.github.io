@@ -1,0 +1,139 @@
+{{ define "main" }}
+<style>
+  .portfolio-export {
+    max-width: 920px;
+    margin: 0 auto;
+  }
+
+  .export-nav {
+    border: 1px solid var(--local-gold);
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0 2rem;
+  }
+
+  .export-nav ol {
+    margin-bottom: 0;
+  }
+
+  .export-section {
+    margin-top: 3rem;
+  }
+
+  .export-entry {
+    margin: 2rem 0;
+    padding-top: 1.25rem;
+    border-top: 1px dotted var(--local-purple);
+  }
+
+  .export-meta {
+    color: var(--local-text-muted);
+    font-size: 0.95rem;
+    margin-top: -0.5rem;
+  }
+
+  .portfolio-export img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media print {
+    body {
+      background: #fff !important;
+      color: #111 !important;
+    }
+
+    header,
+    footer {
+      display: none !important;
+    }
+
+    .content,
+    .portfolio-export {
+      max-width: none;
+      width: 100%;
+      margin: 0;
+    }
+
+    .export-section {
+      break-before: page;
+      page-break-before: always;
+    }
+
+    .export-entry {
+      break-inside: avoid;
+      page-break-inside: avoid;
+    }
+
+    .portfolio-export a[href^="http"]::after {
+      content: " (" attr(href) ")";
+      font-size: 0.85em;
+      word-break: break-all;
+    }
+  }
+</style>
+
+{{ $home := site.GetPage "/" }}
+{{ $about := site.GetPage "/about" }}
+{{ $posts := where (where site.RegularPages "Section" "posts") "Params.hidden" "ne" true }}
+{{ $projects := where (where site.RegularPages "Section" "projects") "Params.hidden" "ne" true }}
+
+<main class="portfolio-export">
+  <h1>{{ .Title }}</h1>
+  <div>{{ .Content }}</div>
+
+  <section class="export-nav" aria-label="Portfolio export navigation">
+    <h2>Navigation</h2>
+    <ol>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About</a></li>
+      <li><a href="#posts">All posts</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#files">Files</a></li>
+    </ol>
+  </section>
+
+  {{ with $home }}
+  <section id="home" class="export-section">
+    <h2>Home</h2>
+    {{ .Content }}
+  </section>
+  {{ end }}
+
+  {{ with $about }}
+  <section id="about" class="export-section">
+    <h2>About</h2>
+    {{ .Content }}
+  </section>
+  {{ end }}
+
+  <section id="posts" class="export-section">
+    <h2>All posts</h2>
+    {{ range $posts.ByDate.Reverse }}
+    <article class="export-entry">
+      <h3>{{ .Title }}</h3>
+      <p class="export-meta">{{ .Date.Format "January 2, 2006" }}</p>
+      {{ .Content }}
+    </article>
+    {{ end }}
+  </section>
+
+  <section id="projects" class="export-section">
+    <h2>Projects</h2>
+    {{ range $projects.ByDate.Reverse }}
+    <article class="export-entry">
+      <h3>{{ .Title }}</h3>
+      <p class="export-meta">{{ .Date.Format "January 2, 2006" }}</p>
+      {{ .Content }}
+    </article>
+    {{ end }}
+  </section>
+
+  <section id="files" class="export-section">
+    <h2>Files</h2>
+    <ul>
+      <li><a href="/files/robert-akhmerov-resume.pdf">Resume PDF</a></li>
+      <li><a href="/files/ecc-ceh-certificate.pdf">Certified Ethical Hacker certificate PDF</a></li>
+    </ul>
+  </section>
+</main>
+{{ end }}
