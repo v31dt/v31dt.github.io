@@ -4,9 +4,9 @@ date: 2026-05-28
 draft: false
 ---
 
-I am Robert Akhmerov, also known online as v31dt. I study Applied Computer Science at Howest, majoring in Cybersecurity, and I am currently building toward a junior penetration tester or security engineering role.
+I am Robert Akhmerov (@v31dt), a KBC offensive security intern, Howest student, and Certified Ethical Hacker (CEH) with hands-on experience in web and mobile penetration testing, malware analysis, and security automation.
 
-My work focuses on practical security: web and mobile penetration testing, Burp Suite workflows, Android security assessment, malware analysis, reverse engineering, and automation. During my offensive security internship at KBC, I worked on mobile penetration testing automation, Burp Suite and Frida integration, OWASP MASVS-based assessment, and Android banking malware research.
+I study Applied Computer Science at Howest, majoring in Cybersecurity. My work focuses on practical security: OWASP Top 10, OWASP MASVS, Burp Suite workflows, API penetration testing, Frida, Ghidra, threat modelling, reverse engineering, and automation.
 
 I also discovered and responsibly disclosed CVE-2026-25471, a critical authentication bypass vulnerability in a WordPress plugin, and ranked as a Cyber Security Challenge Belgium 2026 ECSC Track finalist.
 
@@ -29,7 +29,7 @@ Relevant coursework includes Practical Reverse Engineering and Malware Analysis,
 
 ## Certification
 
-- Certified Ethical Hacker (CEH), February 2026
+- [Certified Ethical Hacker (CEH)](/files/ecc-ceh-certificate.pdf), February 2026
 
 ## Languages
 
