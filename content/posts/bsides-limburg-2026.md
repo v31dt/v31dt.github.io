@@ -13,7 +13,3 @@ Attended BSides Limburg on Friday the 13th in Hasselt, and the two talks I liked
 Also talked a lot with new, interesting, and really cool people.
 
 P.S. Bug bounty hunters are indeed the Uber drivers of infosec.
-
-Original LinkedIn post:
-
-- [BSides Limburg LinkedIn post](https://www.linkedin.com/posts/robert-akhmerov-7166a72a2_attended-bsides-limburg-on-friday-the-13th-activity-7438912301103099904-PtOm)

@@ -23,3 +23,7 @@ Proof and references:
 - [LinkedIn proof post](https://www.linkedin.com/feed/update/urn:li:activity:7464289479097307136/)
 - [Instagram reel](https://www.instagram.com/reel/DYm82vPCY-1/)
 - [Cybersec Europe official website](https://www.cyberseceurope.com/?reg_type_id=203706)
+
+## Proof of participation
+
+![Cybersec Europe 2026 proof of participation](/images/events/cybersec-europe-2026-event-photo.jpg)
