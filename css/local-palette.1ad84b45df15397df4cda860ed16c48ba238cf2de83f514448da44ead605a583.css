@@ -46,6 +46,24 @@
   --color-background-draft-dark: var(--local-purple-soft);
 }
 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --local-paper: #161616;
+    --local-paper-soft: #202020;
+    --local-ink: #ffffff;
+    --local-muted: #c8c8c8;
+    --local-bg-code: rgba(196, 154, 26, 0.16);
+    --local-bg-pre: #111111;
+
+    --color-text-dark: #ffffff;
+    --color-text-muted-dark: #c8c8c8;
+    --color-background-dark: #161616;
+    --color-background-code-dark: rgba(196, 154, 26, 0.16);
+    --color-background-pre-dark: #202020;
+    --color-background-toc-dark: #202020;
+  }
+}
+
 html {
   color: var(--local-text);
   background: var(--local-paper);
