@@ -27,4 +27,4 @@ I developed automation for mobile penetration testing environments, integrated B
 
 My experience at KBC has been incredible, thanks to the whole Offensive Security Team. Their commitment and support made it easy for me to give my all to this project, keep progressing, and learn a lot throughout the process.
 
-I would like to give special thanks to my mentor Linde Nouwen and OST technical lead Ward Vermeulen for their guidance and support throughout the internship, and for helping me find my way in the corporate environment. I also want to thank Mihaly Csonka for his technical advice and expertise, and Maxime Bloch for his humour and fresh ideas, which never failed to help when I got stuck.
+I would like to give special thanks to my mentor Linde Nouwen and OST technical lead Ward Wermeulen for their guidance and support throughout the internship, and for helping me find my way in the corporate environment. I also want to thank Mihaly Csonka for his technical advice and expertise, and Maxime Bloch for his humour and fresh ideas, which never failed to help when I got stuck.
